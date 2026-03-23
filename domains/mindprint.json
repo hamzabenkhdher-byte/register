@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "your-github-username",
+        "email": "your-email@example.com"
+    },
+    "record": {
+        "CNAME": "f3b045a9-ec43-4a5a-87bb-800e71b26bc1.cfargotunnel.com"
+    }
+}
